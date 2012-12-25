@@ -19,6 +19,17 @@ module.exports.url = {
     '/bitbucket'  : 'https://bitbucket.org/folyam',
     '/github'     : 'https://github.com/Folyam'
   },
+  'resistance.hip.hu': {
+    '/'           : 'https://plus.google.com/113713343539883060514/posts',
+    '/comm'       : 'https://plus.google.com/communities/111411442712848944778'
+  },
+  'enlightened.hip.hu':  {
+    '/'           : 'https://plus.google.com/107232777678905291277/posts'
+  },
+  'plus.hip.hu': {
+    '/'           : 'https://plus.google.com/106189462161250574504/posts',
+    '/comm'       : 'https://plus.google.com/communities/109012576581831848926'
+  },
   '*': {
     '/+'          : 'http://plus.google.com',
     '/github'     : 'https://github.com/Yitsushi/redirect-node'
