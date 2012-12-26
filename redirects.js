@@ -30,6 +30,11 @@ module.exports.url = {
     '/'           : 'https://plus.google.com/106189462161250574504/about',
     '/comm'       : 'https://plus.google.com/communities/109012576581831848926'
   },
+  'allatbarat.folyam.info': {
+    '/'           : 'https://plus.google.com/u/0/communities/116201687896896556675',
+    '/gazdit'     : 'https://plus.google.com/u/0/communities/116201687896896556675/stream/3fd8713c-7ec5-4a39-b3ab-feedbd57aa7f',
+    '/tippek'     : 'https://plus.google.com/u/0/communities/116201687896896556675/stream/35f2072f-8750-4a68-94d6-3f6590068a32'
+  },
   '*': {
     '/+'          : 'http://plus.google.com',
     '/github'     : 'https://github.com/Yitsushi/redirect-node'
