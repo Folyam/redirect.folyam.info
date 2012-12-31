@@ -11,6 +11,9 @@ module.exports.url = {
   'localhost': {
     '/plus.html'  : 'https://plus.google.com/u/0/105853491239853198987',
   },
+  'yitsushi.folyam.info': {
+    '/'           : 'https://plus.google.com/101179058475613731703/about'
+  },
   'plus.folyam.info': {
     '/yitsushi'   : 'https://plus.google.com/u/0/104695723888883478740'
   },
