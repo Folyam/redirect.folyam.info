@@ -38,6 +38,9 @@ module.exports.url = {
     '/gazdit'     : 'https://plus.google.com/u/0/communities/116201687896896556675/stream/3fd8713c-7ec5-4a39-b3ab-feedbd57aa7f',
     '/tippek'     : 'https://plus.google.com/u/0/communities/116201687896896556675/stream/35f2072f-8750-4a68-94d6-3f6590068a32'
   },
+  'plus.code-infection.com': {
+    '/'           : 'https://plus.google.com/114798913484842413424/posts'
+  },
   '*': {
     '/+'          : 'http://plus.google.com',
     '/github'     : 'https://github.com/Yitsushi/redirect-node'
