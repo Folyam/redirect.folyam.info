@@ -10,7 +10,8 @@ module.exports.domain = {
 module.exports.url = {
   'coc.hip.hu': {
     '/'           : 'https://www.facebook.com/groups/905508486133897/',
-    '/admin'      : 'https://docs.google.com/spreadsheets/d/1_x8z267L_9-2j-dnzzx9cESGtWPfO0hwwgXTiMF66CU'
+    '/admin'      : 'https://docs.google.com/spreadsheets/d/1_x8z267L_9-2j-dnzzx9cESGtWPfO0hwwgXTiMF66CU',
+    '/nocw'       : 'https://docs.google.com/forms/d/1vOH84tdzMpbwJfIvHC-GuvY1A6Qh7HfOD_EN8cY4vSo/viewform'
   },
   'localhost': {
     '/plus.html'  : 'https://plus.google.com/u/0/105853491239853198987',
